@@ -62,7 +62,7 @@ Use slicers to filter by Occasion, Year, Quarter.
 Hover over charts for exact values and trends.
 
 #DASHBOARD
-<a href="https://github.com/Priya1864/PIZZASALES-PROJECT/blob/main/PIZZASALES%20DASHBOARD1%20(1).png">"DASHBOARD"</a>
+<a href="https://github.com/Priya1864/FNP-SALES-PROJECT/blob/main/FNP%20SALES.png">"DASHBOARD"</a>
 
 
 
